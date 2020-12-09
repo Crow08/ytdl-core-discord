@@ -8,14 +8,14 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@types/node": "^14.14.2",
-    "prism-media": "^1.2.2",
-    "ytdl-core": "^3.4.2"
+    "@types/node": "^14.14.11",
+    "prism-media": "^1.2.3",
+    "ytdl-core": "^4.1.4"
   },
   "deprecated": false,
   "description": "A ytdl-core wrapper focused on efficiency for use in Discord music bots",
   "devDependencies": {
-    "eslint": "^7.3.0"
+    "eslint": "^7.15.0"
   },
   "files": [
     "typings/index.d.ts"
